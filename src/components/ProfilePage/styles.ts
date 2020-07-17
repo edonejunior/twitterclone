@@ -1,6 +1,7 @@
 import styled, {css} from 'styled-components';
 
 import { LocationOn, Cake} from '../../styles/Icons';
+import Button from '../Button';
 
 export const Container = styled.div`
   display: flex;
@@ -101,4 +102,20 @@ export const Followage = styled.div`
     }
   }
 
+`;
+
+export const EditButton = styled(Button)`
+  position:absolute;
+  top: 2vw;
+  right: 7px;
+
+  padding: 4px 16px;
+  font-size: 13px;
+
+  /* Caso seja no minimo 320px */
+  @media (min-width: 320px) {
+    top: 10px;
+    padding: 10px 19px;
+    font-size: 15px;
+  }
 `;
