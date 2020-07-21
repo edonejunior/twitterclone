@@ -1,13 +1,13 @@
 ## Projeto
 
-Iniciado com TypeScript.
-Aprendi bastante a respeito de StyledComponents e personalização do CSS.
-Também separei o projeto em componentes e criei dois arquivos .css para estilizar globalmente, o GlobalStyles e o Icons.ts.
-Aprendi a utilizar o Styled-Icons.
+Iniciado com TypeScript. <br>
+Objetivo: StyledComponents e personalização do CSS.<br>
+Separei o projeto em componentes e criei dois arquivos .css para estilizar globalmente, o GlobalStyles e o Icons.ts.<br>
+Aprendi a utilizar o Styled-Icons.<br>
 
-Estudei melhor:
--> @media.
--> Hover.
--> Importação e exportação de componentes.
--> Cores globais que posso setar dentro da classe :root no css.
--> Botão para reutilização.
+Reforcei os conceitos de:<br>
+-> @media.<br>
+-> Hover.<br>
+-> Importação e exportação de componentes.<br>
+-> Cores globais que posso setar dentro da classe :root no css.<br>
+-> Botão para reutilização.<br>
